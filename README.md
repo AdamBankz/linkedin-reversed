@@ -2,8 +2,8 @@
 
 
 Join me as I explore how LinkedIn works. I’ll look at its features, security, and use its private API to create useful automations. No part is left out.
+# 
 
-#
 
-### Table of Contents 
+# To be continued...
 
